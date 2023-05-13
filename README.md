@@ -2,6 +2,16 @@
 
 **Reminder** that this tool only can use for scraping data from **kerjabilitas.com**!
 
+## Requirements
+- [NodeJS](https://nodejs.org/en)
+
+## First Step
+Type below in your terminal and enter
+
+```
+npm install
+```
+
 ## How to use
 
 ```
